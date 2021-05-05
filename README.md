@@ -16,7 +16,7 @@
  ### Categoria
  <ul>
  <li> int: Id; </li>
-  <li> String: Categoria; </li>
+  <li> String: Descrição; </li>
   </ul>
   
   ### Produto
