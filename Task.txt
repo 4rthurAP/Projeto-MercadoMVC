@@ -1,0 +1,6 @@
+
+> Há um problema no Crude Produto(post e put);
+{
+  Pesquisar um método onde seja possivel adicionar uma categoria a um produto via API;
+  Pesquisar um método onde seja possivel alterar um produto via API;
+}
