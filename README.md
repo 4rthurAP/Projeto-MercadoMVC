@@ -13,13 +13,17 @@
   Há duas Models
  </li>
  
- Categoria
+ ###Categoria
+ <ul>
  <li> int: Id </li>
   <li> String: Categoria </li>
+  </ul>
+  ###Produto
   
-  Produto
+  <ul>
    <li> int: id </li>
     <li> string: Descricao </li>
      <li> int: Quantidade </li>
       <li> int: CategoriaID </li>
        <li> Há uma relação com a tabela Categoria na qual o Id e descrição vem da tabela categoria </li>
+  </ul>
