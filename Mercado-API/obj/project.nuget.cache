@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1208WNBmWYG3zrG9ES1yoTmlgJQ6zRJAiPyFqWXXQGXX5qHtMRTklRdpcCrH2hikrcczv6gR3pXj9tCzrNb1qg==",
+  "dgSpecHash": "oGPbtBdd1C1/0g/dObV3qZHzUtA/s8lfOPn+/evOi0I0BNOLJxEadxgX+T/tYvtht3nvPgO7ncOAXtoBWHbiQQ==",
   "success": true,
-  "projectFilePath": "D:\\Projeto_C#\\Mercado_\\Mercado-API\\Mercado-API.csproj",
+  "projectFilePath": "D:\\Projeto_C#\\Mercado_\\Projeto-MercadoMVC\\Mercado-API\\Mercado-API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arthur Pereira\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Arthur Pereira\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

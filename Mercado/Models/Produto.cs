@@ -11,10 +11,9 @@ namespace Mercado.Models
         public int Id { get; set; }
 
         [Display(Name = "Descrição")]
-        [Range(1, 50, ErrorMessage = "Execedeu o valor de 50 caracteres")]
         public string Descricao { get; set; }
-        public int Quantidade { get; set; }
 
+        public int Quantidade { get; set; }
 
         [Display(Name = "Categoria")]
         public int CategoriaId { get; set; }

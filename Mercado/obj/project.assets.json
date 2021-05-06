@@ -7153,11 +7153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projeto_C#\\Mercado_\\Mercado\\Mercado.csproj",
+      "projectUniqueName": "D:\\Projeto_C#\\Mercado_\\Projeto-MercadoMVC\\Mercado\\Mercado.csproj",
       "projectName": "Mercado",
-      "projectPath": "D:\\Projeto_C#\\Mercado_\\Mercado\\Mercado.csproj",
+      "projectPath": "D:\\Projeto_C#\\Mercado_\\Projeto-MercadoMVC\\Mercado\\Mercado.csproj",
       "packagesPath": "C:\\Users\\Arthur Pereira\\.nuget\\packages\\",
-      "outputPath": "D:\\Projeto_C#\\Mercado_\\Mercado\\obj\\",
+      "outputPath": "D:\\Projeto_C#\\Mercado_\\Projeto-MercadoMVC\\Mercado\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arthur Pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
